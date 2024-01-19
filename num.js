@@ -1,4 +1,4 @@
-let num = 1;
-let oldnum = 1;
+let num = 0;
+let oldnum = 2;
 
 export {num, oldnum};
